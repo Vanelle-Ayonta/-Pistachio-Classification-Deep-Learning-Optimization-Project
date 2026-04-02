@@ -1,0 +1,4 @@
+outputs/
+*.ipynb
+*.h5
+data/*.xls
